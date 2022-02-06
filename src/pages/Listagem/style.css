@@ -1,0 +1,36 @@
+.cabecalho {
+    width: 800px;
+    height: 120px;
+    font-family: Poppins;
+    color: #374557;    
+}
+    
+p {
+    font-size: 36px;
+    margin-top: 33px;
+    color: #374557;  
+}
+
+.listagem {
+    display: flex;
+    flex-direction: row;
+}
+
+table, tr {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1224px;
+    margin-left: 100px;        
+}
+
+th, td {   
+    width: 160px;
+    height: 24px;
+    text-align: center;         
+    }
+
+.buttonUpdate {
+    margin-left: 1030px;
+}
+
+

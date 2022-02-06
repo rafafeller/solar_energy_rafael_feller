@@ -1,0 +1,36 @@
+.telaLogin{
+    display: flex;
+    flex-direction: row;
+  }
+
+.imgPanel {
+    width: 979px;
+    height: 1080px;   
+}
+
+.imgLogo {
+    width: 309px;
+    height: 309px;     
+}
+
+.formLogin {
+    display:flex;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;    
+}
+
+.inputLogin {
+    display:flex;    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+}
+
+ p {
+    font-size: 24px;
+    font-family: Roboto Slab;
+    margin-top: 100px
+ }   

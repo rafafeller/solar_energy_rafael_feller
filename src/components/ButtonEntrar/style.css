@@ -1,0 +1,11 @@
+.buttonEntrar {
+    width: 538px;
+    height: 85.32px;
+    border-radius: 10px;
+    color: white; 
+    font-size: 24px;
+    font-family: Roboto Slab;
+    background:#4CBC9A;
+    padding: 7px;
+    margin: 10px;
+  }

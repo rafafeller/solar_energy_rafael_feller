@@ -1,0 +1,76 @@
+{
+  "unidades": [
+    {
+      "apelido": "Painel 1",
+      "local": "Florianópolis",
+      "marca": "Qcells",
+      "modelo": "365 w",
+      "ativo": "false",
+      "id": 1
+    },
+    {
+      "apelido": "Painel 2",
+      "local": "Curitiba",
+      "marca": "Fronius",
+      "modelo": "320w",
+      "ativo": "false",
+      "id": 2
+    },
+    {
+      "apelido": "Painel 3",
+      "local": "Porto Alegre",
+      "marca": "Dracula",
+      "modelo": "2020",
+      "ativo": false,
+      "id": 3
+    },
+    {
+      "apelido": "Painel 4",
+      "local": "São Paulo",
+      "marca": "BMW",
+      "modelo": "2021",
+      "ativo": "false",
+      "id": 4
+    },
+    {
+      "apelido": "Painel 5",
+      "local": "Rio de Janeiro",
+      "marca": "Tesla",
+      "modelo": "2000",
+      "ativo": false,
+      "id": 5
+    },
+    {
+      "apelido": "Painel 6",
+      "local": "Campo Grande",
+      "marca": "Armstrong",
+      "modelo": "2018",
+      "ativo": "false",
+      "id": 6
+    },
+    {
+      "apelido": "Painel 7",
+      "local": "Belo Horizonte",
+      "marca": "Lambda",
+      "modelo": "2013",
+      "ativo": "false",
+      "id": 7
+    },
+    {
+      "apelido": "Painel 8",
+      "local": "Vitória",
+      "marca": "Alfa",
+      "modelo": "2014",
+      "ativo": false,
+      "id": 8
+    },
+    {
+      "apelido": "Painel 9",
+      "local": "Cuiabá",
+      "marca": "Omega",
+      "modelo": "2017",
+      "ativo": "false",
+      "id": 9
+    }
+  ]
+}

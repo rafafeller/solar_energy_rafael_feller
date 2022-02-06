@@ -1,0 +1,25 @@
+
+.telaLancamentoGeracao {
+    display: flex;    
+}
+
+.cabecalho {
+    width: 1575px;
+    height: 120px;    
+    font-family: Poppins;
+    color: #374557;
+    background: #FFFF;  
+}
+
+.menuLateral {
+    background: #FFFF;
+}
+
+.entradaDados {
+    margin-left: 100px;
+}
+
+p {
+    font-size: 36px;
+    margin-top: 33px;
+}
